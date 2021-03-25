@@ -6,7 +6,15 @@
 
     <groupId>com.yvan.kb</groupId>
     <artifactId>kb-dev</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>kb01common</module>
+        <module>kb02pojo</module>
+        <module>kb03mapper</module>
+        <module>kb04service</module>
+        <module>kb05api</module>
+    </modules>
 
     <!--第二次git提交        -->
     <!--第三次git提交        -->
