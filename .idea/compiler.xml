@@ -6,7 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="kb-dev" />
+        <module name="kb04service" />
+        <module name="kb01common" />
+        <module name="kb02pojo" />
+        <module name="kb03mapper" />
+        <module name="kb05api" />
       </profile>
     </annotationProcessing>
   </component>
